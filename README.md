@@ -4,4 +4,4 @@ This repository contains Jupyter Notebooks and accompanying video tutorials to h
 
 | Topic | Notebook Link | Video Link |
 |---|---|---|
-| Introduction to PyTorch || |
+| Introduction to PyTorch |https://github.com/farhad-pourkamali/PyTorch-Step-by-Step/blob/main/Intro.ipynb| |
